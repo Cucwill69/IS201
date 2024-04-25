@@ -6,7 +6,9 @@
     color: white;
     font-family:'Times New Roman', Times, serif;
     height: 100px;
-    line-height: 100 px;
+    margin: auto;
+    width: 50%;
+    
 
 
     
@@ -20,27 +22,35 @@
 
 .mainbody{
     background-color: rgb(243, 242, 242);
+    border-style: solid;
+    border-width: 2px;
+    padding: 0%;
+    margin: auto;
     
 
 
 
 }
 .footer{
-    background-color: black;
     position: fixed;
     bottom: 0px;
 
 
 }
 .homepage{
-    background-color: turquoise;
+    background-color: grey;
     line-height: 25px;
     height: 50px;
-
+    width: 90%;
+    text-align: center;
+    margin: auto;
 
 }
 .img{
 text-align: right;
-height: 30px;
+height: 100px;
+width: 100%;
 
+
+ 
 }
