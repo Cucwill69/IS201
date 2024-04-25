@@ -1,0 +1,46 @@
+
+
+.header{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    height: 100px;
+    line-height: 100 px;
+
+
+    
+    
+
+
+
+
+
+}
+
+.mainbody{
+    background-color: rgb(243, 242, 242);
+    
+
+
+
+}
+.footer{
+    background-color: black;
+    position: fixed;
+    bottom: 0px;
+
+
+}
+.homepage{
+    background-color: turquoise;
+    line-height: 25px;
+    height: 50px;
+
+
+}
+.img{
+text-align: right;
+height: 30px;
+
+}
